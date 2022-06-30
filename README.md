@@ -13,7 +13,7 @@ English: The reviewer with ID number rID has a certain name.
 Rating ( rID, mID, stars, ratingDate )
 English: The reviewer rID gave the movie mID a number of stars rating (1-5) on a certain ratingDate.
 
-Your queries will run over a small data set conforming to the schema. [View the database] (https://courses.edx.org/asset-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020+type@asset+block/moviedata.html)
+Your queries will run over a small data set conforming to the schema. [View the database](https://courses.edx.org/asset-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020+type@asset+block/moviedata.html)
 
 ###  SQL Movie-Rating Query Exercises
 
