@@ -19,6 +19,8 @@ Your queries will run over a small data set conforming to the schema. [View the 
 
 Q1) Find the titles of all movies directed by Steven Spielberg.
 
-  select title
-  from movie
-  where director = 'Steven Spielberg'
+```
+select title
+from movie
+where director = 'Steven Spielberg'
+```
